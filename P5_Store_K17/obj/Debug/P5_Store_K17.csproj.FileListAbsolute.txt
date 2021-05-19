@@ -1,0 +1,10 @@
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\obj\Debug\P5_Store_K17.FrmMain.resources
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\obj\Debug\P5_Store_K17.Properties.Resources.resources
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\obj\Debug\P5_Store_K17.csproj.GenerateResource.cache
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\obj\Debug\P5_Store_K17.csproj.CoreCompileInputs.cache
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\bin\Debug\P5_Store_K17.exe.config
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\bin\Debug\P5_Store_K17.exe
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\bin\Debug\P5_Store_K17.pdb
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\obj\Debug\P5_Store_K17.exe
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\obj\Debug\P5_Store_K17.pdb
+E:\School\1399-400\Programming\11\P5_Store_K17\P5_Store_K17\obj\Debug\P5_Store_K17.csprojAssemblyReference.cache
